@@ -1,0 +1,38 @@
+/* nav related styles */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+nav{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+button{
+    color: white;
+    background-color: rgb(235, 125, 0);
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    width: 100px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+}
+.i{
+    color: rgb(235, 125, 0);
+}
+.logo{
+    font-size: 30px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+}
