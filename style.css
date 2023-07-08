@@ -36,3 +36,23 @@ nav li a{
     text-decoration: none;
     font-size: 20px;
 }
+/* header related style */
+
+.heads{
+    background-color: #fff8f3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.pic{
+    margin: auto;
+    width: 350px;
+    border: 2px solid rgb(6, 68, 48);
+    border-radius: 15px;
+}
+.wow{
+    width: 150px;
+}
